@@ -1,4 +1,4 @@
-![Image](images/ukulele1.jpg)
+![Image](images/ukulele1.JPG)
 
 ## Welcome to GitHub Pages
 
