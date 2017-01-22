@@ -8,7 +8,7 @@ I did my research intern for _computer vision_ in _Microsoft Research_
 
 I will be a software engineer at _Google Inc_. in July, 2017.
 
-# Activity in Graduate School
+# Activities in Graduate School
 
 Doing research in Lili Qiu's Wireless Network Lab in CS@UT-Austin
 
