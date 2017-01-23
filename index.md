@@ -40,6 +40,8 @@ Network and Security, Wireless Network, Artificial Intelligence
 
 ## Other Links:
 
+[Personal Homepage @cs.utexas](http://www.cs.utexas.edu/~huihuang/)
+
 [Linkedin Profile](https://cn.linkedin.com/in/huihuang-zheng-90b25a77)
 
 ## Last Updated
